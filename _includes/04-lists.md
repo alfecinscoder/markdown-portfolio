@@ -1,3 +1,3 @@
-	:heart: HEART!
-  :sparkles: SPARKLES!
-  :tada: TADA!
+- :heart: HEART!
+- :sparkles: SPARKLES!
+ - :tada: TADA!
